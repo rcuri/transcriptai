@@ -1,0 +1,264 @@
+Home team's information:
+city: Boston
+nickname: Celtics
+abbreviation: BOS
+
+Visitor team's information:
+city: Philadelphia
+nickname: 76ers
+abbreviation: PHI
+
+The events are:
+
+event_type: START_OF_PERIOD
+period: 1
+live_time: 7:34 PM	
+playclock_time: 12:00
+home_description: None
+visitor_descriptions: Start of 1st Period (7:34 PM EST)
+neutral_description: None
+score: 0-0
+
+event_type: JUMP_BALL
+period: 1
+live_time: 7:33 PM	
+playclock_time: 12:00
+home_description: Jump Ball Horford vs. Reed: Tip to Harden
+visitor_descriptions: None
+neutral_description: None
+score: 0-0
+player1_name: Al Horford
+player1_team: Boston
+player2_name: Paul Reed
+player2_team: Philadelphia
+player3_name: James Harden
+player3_team: Philadelphia
+
+event_type: SCORING
+period: 1
+live_time: 7:34 PM
+playclock_time: 11:38
+home_description: None
+visitor_descriptions: Harden 10' Step Back Jump Shot (2 PTS)
+neutral_description: None
+score: 2-0
+player1_name: James Harden
+player1_team: Philadelphiaevent_type: START_OF_PERIOD
+period: 1
+live_time: 7:34 PM
+playclock_time: 12:00
+neutral_description: Start of 1st Period (7:34 PM EST)
+score: 0-0
+
+event_type: JUMP_BALL
+period: 1
+live_time: 7:34 PM
+playclock_time: 12:00
+home_description: Jump Ball Horford vs. Reed: Tip to Harden
+score: 0-0
+player1_name: Al Horford
+player1_team: Celtics
+player2_name: Paul Reed
+player2_team: 76ers
+player3_name: James Harden
+player3_team: 76ers
+
+event_type: SCORING
+period: 1
+live_time: 7:34 PM
+playclock_time: 11:38
+visitor_description: Harden 10' Step Back Jump Shot (2 PTS)
+score: 2 - 0
+player1_name: James Harden
+player1_team: 76ers
+
+event_type: SCORING
+period: 1
+live_time: 7:35 PM
+playclock_time: 11:21
+home_description: Tatum 1' Cutting Dunk Shot (2 PTS) (Smart 1 AST)
+score: 2 - 2
+player1_name: Jayson Tatum
+player1_team: Celtics
+player2_name: Marcus Smart
+player2_team: Celtics
+
+event_type: MISS
+period: 1
+live_time: 7:35 PM
+playclock_time: 11:06
+visitor_description: MISS Maxey 29' 3PT Pullup Jump Shot
+score: 2 - 2
+player1_name: Tyrese Maxey
+player1_team: 76ers
+
+event_type: REBOUND
+period: 1
+live_time: 7:35 PM
+playclock_time: 11:03
+home_description: Tatum REBOUND (Off:0 Def:1)
+score: 2 - 2
+player1_name: Jayson Tatum
+player1_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:35 PM
+playclock_time: 10:46
+home_description: Horford 4' Cutting Layup Shot (2 PTS) (Brown 1 AST)
+score: 2 - 4
+player1_name: Al Horford
+player1_team: Celtics
+player2_name: Jaylen Brown
+player2_team: Celtics
+
+event_type: MISS
+period: 1
+live_time: 7:35 PM
+playclock_time: 10:33
+home_description: Horford BLOCK (1 BLK)
+visitor_description: MISS Reed 5' Driving Layup
+score: 2 - 4
+player1_name: Paul Reed
+player1_team: 76ers
+player3_name: Al Horford
+player3_team: Celtics
+
+event_type: REBOUND
+period: 1
+live_time: 7:36 PM
+playclock_time: 10:32
+home_description: Horford REBOUND (Off:0 Def:1)
+score: 2 - 4
+player1_name: Al Horford
+player1_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:36 PM
+playclock_time: 10:27
+home_description: Tatum 2' Running Dunk (4 PTS) (Brown 2 AST)
+score: 2 - 6
+player1_name: Jayson Tatum
+player1_team: Celtics
+player2_name: Jaylen Brown
+player2_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:36 PM
+playclock_time: 10:00
+visitor_description: Harris 14' Fadeaway Jumper (2 PTS)
+score: 4 - 6
+player1_name: Tobias Harris
+player1_team: 76ers
+
+event_type: TURNOVER
+period: 1
+live_time: 7:36 PM
+playclock_time: 9:37
+home_description: Smart Out of Bounds Lost Ball Turnover (P1.T1)
+score: 4 - 6
+player1_name: Marcus Smart
+player1_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:37 PM
+playclock_time: 9:28
+visitor_description: Harden 15' Step Back Jump Shot (4 PTS)
+score: 6 - 6
+player1_name: James Harden
+player1_team: 76ers
+
+event_type: TURNOVER
+period: 1
+live_time: 7:37 PM
+playclock_time: 9:10
+home_description: Brown Lost Ball Turnover (P1.T2)
+visitor_description: Tucker STEAL (1 STL)
+score: 6 - 6
+player1_name: Jaylen Brown
+player1_team: Celtics
+player2_name: P.J. Tucker
+player2_team: 76ers
+
+event_type: SCORING
+period: 1
+live_time: 7:37 PM
+playclock_time: 9:06
+visitor_description: Harris 6' Running Alley Oop Dunk Shot (4 PTS) (Reed 1 AST)
+score: 8 - 6
+player1_name: Tobias Harris
+player1_team: 76ers
+player2_name: Paul Reed
+player2_team: 76ers
+
+event_type: MISS
+period: 1
+live_time: 7:37 PM
+playclock_time: 8:49
+home_description: MISS Tatum 7' Driving Floating Jump Shot
+visitor_description: Reed BLOCK (1 BLK)
+score: 8 - 6
+player1_name: Jayson Tatum
+player1_team: Celtics
+player3_name: Paul Reed
+player3_team: 76ers
+
+event_type: REBOUND
+period: 1
+live_time: 7:37 PM
+playclock_time: 8:48
+home_description: Horford REBOUND (Off:1 Def:1)
+score: 8 - 6
+player1_name: Al Horford
+player1_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:37 PM
+playclock_time: 8:46
+home_description: Brown 25' 3PT Jump Shot (3 PTS) (Horford 1 AST)
+score: 8 - 9
+player1_name: Jaylen Brown
+player1_team: Celtics
+player2_name: Al Horford
+player2_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:38 PM
+playclock_time: 8:33
+visitor_description: Harden 14' Turnaround Fadeaway (6 PTS)
+score: 10 - 9
+player1_name: James Harden
+player1_team: 76ers
+
+event_type: TURNOVER
+period: 1
+live_time: 7:38 PM
+playclock_time: 8:24
+home_description: Horford Out of Bounds - Bad Pass Turnover Turnover (P1.T3)
+score: 10 - 9
+player1_name: Al Horford
+player1_team: Celtics
+
+event_type: SCORING
+period: 1
+live_time: 7:38 PM
+playclock_time: 8:13
+visitor_description: Harden 27' 3PT Step Back Jump Shot (9 PTS)
+score: 13 - 9
+player1_name: James Harden
+player1_team: 76ers
+
+event_type: SCORING
+period: 1
+live_time: 7:38 PM
+playclock_time: 8:02
+home_description: White 3' Driving Layup (2 PTS)
+score: 13 - 11
+player1_name: Derrick White
+player1_team: Celtics
+

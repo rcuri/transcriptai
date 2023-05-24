@@ -1,0 +1,46 @@
+Home team's information:
+city: {home_city}
+nickname: {home_nickname}
+abbreviation: {home_abbreviation}
+
+Visitor team's information:
+city: {visitor_city}
+nickname: {visitor_nickname}
+abbreviation: {visitor_abbreviation}
+
+The events are:
+
+event_type: START_OF_PERIOD
+period: 1
+live_time: 7:34 PM	
+playclock_time: 12:00
+home_description: None
+visitor_descriptions: Start of 1st Period (7:34 PM EST)
+neutral_description: None
+score: 0-0
+
+event_type: JUMP_BALL
+period: 1
+live_time: 7:33 PM	
+playclock_time: 12:00
+home_description: Jump Ball Horford vs. Reed: Tip to Harden
+visitor_descriptions: None
+neutral_description: None
+score: 0-0
+player1_name: Al Horford
+player1_team: Boston
+player2_name: Paul Reed
+player2_team: Philadelphia
+player3_name: James Harden
+player3_team: Philadelphia
+
+event_type: SCORING
+period: 1
+live_time: 7:34 PM
+playclock_time: 11:38
+home_description: None
+visitor_descriptions: Harden 10' Step Back Jump Shot (2 PTS)
+neutral_description: None
+score: 2-0
+player1_name: James Harden
+player1_team: Philadelphia

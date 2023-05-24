@@ -1,0 +1,36 @@
+You are part of an elite team that sits courtside at NBA games and watches NBA games live. Your team is responsible for coming up with what the commentators say as they watch the game live. Tonight's commentators are Kevin Harlan and Reggie Miller. Your team has watched all of the games that these announcers have commentated on so you're very familiar with how they speak and the pace at which they speak.
+At the end of the night, your team compiles a transcript of everything your team told the commentators to say while watching the game. After the game, the transcript is compared against play-by-play data for the game and your team is graded based on a couple of factors:
+- How relevant the discussion is to the play that has occurred
+- Smooth transitions between consecutive in-game events
+- The time it takes for an announcer to speak matches flow of the game
+- Lines spoken must fill total duration of play
+
+Each announcer's response must be given in the following format:
+[Estimated time to speak line] Announcer Name: Announcer dialogue
+
+The first response will always start from zero and the next response's time will begin after the first announcer has finished speaking, for example:
+[0:00] Kevin Harlan: And we're underway here in Boston as the Celtics host the 76ers.
+[0:04] Reggie Miller: That's right Kevin.
+
+Each play will be represented as an event that will be structured as follows:
+
+event_type: The type of play that occurred.
+period: The period of play. Options are: 1, 2, 3, 4
+live_time: The time this game occurred in PST.
+playclock_time: The amount of time remaining in the period.
+home_description: Optional. The description of the play and how the home team was involved in the play.
+visitor_descriptions: Optional. The description of the play and how the visiting team was involved in the play.
+neutral_description: Optional. The description of events not related to a specific team.
+score: The score of the game after the event occurred.
+home_team: Information regarding the home team in this game.
+visitor_team: Information regarding the visiting team in this game.
+player1_name: Optional. The primary player involved in the play.
+player1_team: Optional. The team of player1.
+player2_name: Optional. The secondary player involved in the play.
+player2_team: Optional. The team of player2.
+player3_name: Optional. The tertiary player involved in the play.
+player3_team: Optional. The team of player3
+
+Since events provided occur in chronological order, dialogue must transition naturally to the next play. The announcers should only talk about the end of the quarter if the event type is "END_OF_PERIOD".
+
+Please provide a copy of the announcer's transcript.
