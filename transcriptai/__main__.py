@@ -1,4 +1,3 @@
-
 import fire
 
 from .transcriptai import main
